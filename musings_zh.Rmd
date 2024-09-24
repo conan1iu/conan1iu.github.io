@@ -26,6 +26,10 @@ knitr::opts_chunk$set(echo = TRUE)
 - [一个思考](post_1_zh.html)
 
 <br>
+
+- [一个思考](post_2_zh.html)
+
+
 <br>
 <br>
 <br>

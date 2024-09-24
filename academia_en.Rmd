@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br>
 
-<h5>My research interests relate to statistics, machine learning and AI in the fields of actuarial science and finance. Alongside the published papers below (several Q1), I have worked as a research assistant at UNSW, looking at natural perils insurance and claims affordability.</h5> 
+<h5>My research interests relate to my curiosities at various stages of education. Mostly they pertain to statistics, machine learning and AI in the fields of actuarial science and finance. Alongside the published papers below (several Q1), I have visited numerous universities across Australia (Canberra, Sydney), Europe (Rotterdam, Amsterdam, Vienna, Slovakia, Stockholm, Linkoping) and Asia (China, Japan, South Korea) to discuss works with collaborators, friends, etc. - notably, helping contribute to papers and theses on simulating the return in boutique Swedish hedge funds that specialise in American life insurance policies, assisting research at UNSW looking at natural perils insurance and claims affordability, etc.  </h5> 
 
 <br>
 

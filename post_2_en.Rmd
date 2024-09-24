@@ -1,0 +1,131 @@
+---
+title: ""
+subtitle: ""
+output:
+  html_document:
+    toc: false
+    toc_float: true
+    toc_depth: 2
+    theme: yeti
+    css: styles.css  # Linking the CSS file
+    include:
+      in_header: scripts.js
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+<div style="margin-top: 88px;">
+  <h1>Musings from Venture</h1>
+</div>
+
+<br>
+
+
+<hr style="border-top: 1px solid grey; margin-left: 20px; margin-right: 20px;" />
+
+<br>
+
+One of my most lasting memories from my 7 month stint with OIF Ventures (A$500M AUM fund in Double Bay, Sydney) was when I accompanied Jerry Stesel (founding partner at OIF) to Optiver's main Sydney office. 
+
+<br>
+
+The situation was as follows: it was 2022. Jerry had an angel investor friend who had invested in a couple of scientists (researchers, academics) from the ANU (Australian National University) and was asking Jerry for some warm intros. Because the scientists were developing a liquid coolant, Jerry thought it was reasonable to talk with someone who might need liquid coolants - the head of tech at Optiver APAC. 
+
+<br>
+
+Heading out from the office, Jerry was quite optimistic - and perhaps even excited - as he hailed a taxi. Mind you, it was my first proper internship, and my first time in a taxi that was going to be paid for using a company card. It was a very sunny day and I was wearing the OIF t-shirt. Double Bay is always beautiful but particularly as the Jacarandah trees were in full bloom. 
+
+<br>
+
+As I chat with Jerry in the car, he explains his thoughts and how he also used to be an angel investor. He was also in investment banking for 10 years, which he said was "too long". Regardless, Jerry has a great nose and good skin, so he still looks great. 
+
+<br>
+
+As we make it to the office, we calmly begin waiting for the scientists to arrive. That's when I find out they are originally from Canberra (where the ANU is situated). I nod in understanding (since I was born there). 
+
+<br>
+
+The Optiver office has a small waiting area at the door - it's similar to the weird little areas at the door of a small house that you see in the land-house packages. Honestly, as the scientists arrived, it was a bit awkward to stand in for 5 people. 
+
+<br>
+
+But as you move into the main area, it's quite stunning as Optiver owns the entire building - so they dug out a hole in each floor all the way to the top and have a water feature running all the way down. It's quite absurd but also understandable. Then of course to the side of the water feature there are all the main trading desks, etc. Overall, it's quite a quiet environment. Everyone is pretty focused on their 5-6 desktop monitors, all arranged at obscure angles. 
+
+<br>
+
+One important note was that the water feature was disabled, for reasons to be discussed later. So the holes in each floor essentially formed a very grand skylight.  
+
+<br>
+
+We then meet the then head of tech, a guy named Rohan, or Rowan? He has bright ginger hair and very intense eyes. Maybe moreso because back then I was only 18 so hadn't met that many intense people yet. 
+
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+<br>
+
+Rowan was helpful because he helped the founders pivot out of a potential dead-end. 
+
+<br>
+
+Data centres like the one for the ASX are probably the most conservative and risk-averse. So they won't want to install something like a liquid coolant. Further, if they did install it, there would be an installation period - to actually capitalise on the liquid coolant, which boasted a 300% increase in space usage efficiency, the data centre would have to be reconfigured entirely - which would likely result in outages for the many parties actually trading in the ASX. 
+
+<br>
+
+
+In fact this was why Optiver was so against any liquid coolants as well - one time the water feature leaked into the on-site data centre, so they turned off the water feature. 
+
+
+<br>
+
+So Rowan really helped guide the startup to find the right customers. He understood the business needs from a technical perspective as well as a practical sales perspective. This was necessary as the head of tech at Optiver (undoubtedly required a lot of BD skills).
+
+<br>
+
+He also highlighted how the product needs to solve someone's needs. The founders discussed potentially focusing on EVs (applying the liquid coolant to batteries instead of data centres). He also discussed the finicky nature of such customers in general - like how Optiver once had a building obstructing a signal which was impeding trade execution speed - so they bought the building to remove it as an obstruction... to gain that micro-advantage. 
+
+<br>
+
+Rowan was also very helpful because he possessed insights from both sides of the equation. He used to a software engineer himself, before gradually climbing up to become the head of tech for Optiver APAC. This means he not only understands the technical needs for the company, and other similar organisations, but understands the sales mindset and ultimately, how to match products/services to the parties that need them. 
+
+<br>
+
+But that was in 2022. I think especially after the recent AI-boom, data centres are more important than ever. After ChatGPT etc., the next progression will require a step function change. This is going to come from both architecture improvements, but also more training data - especially with multimodal models. And more training data requires more data centres. Australia has the opportunity here to capitalise. With lots of spare land, metals (copper, iron), and potentially liquid coolants to make it all more efficient... 
+
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<h6>
+<center>*This site was last updated at `r format(Sys.time(), "%H:%M")` on `r format(Sys.Date(), "%d %b %Y")`*</center>
+</h6>
