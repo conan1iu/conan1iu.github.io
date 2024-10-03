@@ -1,0 +1,104 @@
+---
+title: ""
+subtitle: ""
+output:
+  html_document:
+    toc: false
+    toc_float: true
+    toc_depth: 2
+    theme: yeti
+    css: styles.css  # Linking the CSS file
+    include:
+      in_header: scripts.js
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+<div style="margin-top: 88px;">
+  <h1>Noemie Fox - and more from Aware Super</h1>
+</div>
+
+<br>
+
+
+<hr style="border-top: 1px solid grey; margin-left: 20px; margin-right: 20px;" />
+
+<br>
+
+I am currently interning at a notable super fund - Aware Super. One of their newest directors helps run an organisation which aims to break down barriers for young women to enter sport. As a result, they have connections to Noemie Fox, who at the time of writing this very recently won the Gold Medal at the 2024 Paris Olympics for the Canoe Cross, a new canoe event that blends aspects of 2 different individual canoe events, and then adds 2-3 competitors. So pretty hectic?  
+
+<br>
+
+Any professional athlete, especially those in more independent sports, actually parallel companies in the real world quite closely. There is preparation, focus, competition, and execution - with the goal of winning. There are a large number of people involved in these steps, and timing is extremely important. So is consistency. Anyway, because there are so many parallels, Aware Super invited Noemie Fox for a fireside chat, before continuing to talk about Aware Super and the management's goals for "winning retirement". 
+
+<br>
+
+I wanted to write down my thoughts, and what stood out to me. 
+
+<br>
+
+In the broader scheme of things, understanding what comprises a win is important. A win, either large or small, is a signal of doing things right. It proxies the fact that the underlying processes being followed are moving the needle. This requires an understanding of both what the needle is and what the needle is moving. So especially in sports such as canoeing, which primarily humble athletes (waves crashing, capsizing, whatever else...), understanding what constitutes a small win, in the broader scheme of a larger win, and then how to celebrate those, is extremely important. 
+
+<br>
+
+In saying this, the tool for success for Fox was switching from an outcome-focused mindset to a process-driven mindset. What is success? What drives success? And when one achieves small wins, how does one justify why they could? This forms a highly iterative process. When in a position of less understanding, you are not certain of what success means to yourself either. So when winning, how can that be justified? Then, how can that be positively reinforced? Then, how can new ways of winning be optimised for through the right processes? The answer to this last question would become more noticeable as you justify your previous wins more and more.
+
+<br>
+
+Another key point was how Fox had to switch gears for the Paris olympics. She previously focused on 3 events but in Paris, only trained for 1. Notably, the event was new as well, and merged 2 independent-style canoe events and then added 2-3 competitors. In this sense, the event became less of an individual optimisation problem, and more of strategic battle royale - this parallels business in the real world. Perhaps, if entering a niche market, the market will eventually have competition. Individual perfection matters less in such a setting - it's more about understanding the competition, their tendencies, then building a strategy within the chaos to find a path through. 
+
+<br>
+
+Fox also touched on some of her drivers for success; passion/purpose, discipline/dedication, and a relentless focus/drive. I think I am still working on these. 
+
+<br>
+
+After Fox talked on these points, some executives from Aware Super came out to discuss the growth of Aware Super. Notably, the director touched on 2 points: what growth is, and why it's important. He didn't really touch on how... probably as this was a more motivational event. But growth for Aware Super is growing the "natural momentum" 2030 target from 375 billion AUD under management to 400 billion, to deal with the fact that two other main competitors in the Australian market are 3-4x as large. Regarding the why, he mentioned 3 points. First, growing the fund allows for a reduction of fixed costs which reduces fees for members. Second, growing the fund allows for better investment opportunities across a wider array of assets etc. And thirdly, becoming a larger fund allows for more advocacy, both in government legislation and attracting good talent. This is especially apparent as the other larger super funds in Australia begin to have an increasingly growing say in the behaviour of startups, as a byproduct of being key investors in venture capital funds. 
+
+<br>
+
+The key point the director mentioned here was that the branding of the company is critical. As I've read recently too from startup friends, a strong brand should be associated with a few single words or ideas. A strong brand instantly brings something to mind. For Aware Super, the new branding goal is to bring "the super fund to retire with" to mind. 
+
+<br>
+
+From a management consulting perspective, I was interested in the success factors too. The director mentioned some: increasing the net number of members aged 55+, and trying to expand into the age 45+ market (since competitors are "distracted"). Second, reducing 2.5% churn to match Australian Super's 1.8% churn more closely. Third, boosting member confidence. I couldn't note down the rest sadly, but from a MECE perspective, it's the members, scope of members, and then member confidence.  
+
+
+<br>
+
+Finally, the director reflected on the fireside chat. He raised some of his key points. First, on focus; you can't win in everything, so find the most important areas to win in to drive meaningful results. Second, preparation takes years. Third, mindset. 
+
+<br>
+
+<h1>"I must win."</h1>
+
+
+
+<br>
+
+<h1>"I CAN win."</h1>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<h6>
+<center>*This site was last updated at `r format(Sys.time(), "%H:%M")` on `r format(Sys.Date(), "%d %b %Y")`*</center>
+</h6>

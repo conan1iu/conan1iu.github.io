@@ -30,6 +30,8 @@ knitr::opts_chunk$set(echo = TRUE)
 - [Musings from Venture #1](post_2_en.html)
 
 <br>
+
+- [Noemie Fox - and more from Aware Super](post_3_en.html)
 <br>
 <br>
 <br>

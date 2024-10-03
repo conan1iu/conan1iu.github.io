@@ -27,10 +27,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br>
 
-- [一个思考](post_2_zh.html)
+- [关于风险投资的一些思考](post_2_zh.html)
 
 
 <br>
+
+- [Noemie Fox - 以及来自 Aware Super 的更多信息](post_3_zh.html)
 <br>
 <br>
 <br>
